@@ -1,0 +1,27 @@
+model,variant,mechanical_score,source_precision
+Alibaba-NLP/gte-modernbert-base,naive,71.152,3 decimals
+BAAI/bge-base-en-v1.5,naive,71.241,3 decimals
+BAAI/bge-small-en-v1.5,naive,70.735,3 decimals
+mixedbread-ai/mxbai-embed-large-v1,naive,71.221,3 decimals
+Qwen/Qwen3-Embedding-0.6B,naive,70.253,3 decimals
+Alibaba-NLP/gte-modernbert-base,structured,69.501,3 decimals
+BAAI/bge-base-en-v1.5,structured,73.203,3 decimals
+BAAI/bge-small-en-v1.5,structured,70.097,3 decimals
+mixedbread-ai/mxbai-embed-large-v1,structured,68.976,3 decimals
+Qwen/Qwen3-Embedding-0.6B,structured,68.360,3 decimals
+Alibaba-NLP/gte-modernbert-base,verbose,69.034,3 decimals
+BAAI/bge-base-en-v1.5,verbose,67.224,3 decimals
+BAAI/bge-small-en-v1.5,verbose,65.651,3 decimals
+mixedbread-ai/mxbai-embed-large-v1,verbose,65.438,3 decimals
+Qwen/Qwen3-Embedding-0.6B,verbose,66.487,3 decimals
+Alibaba-NLP/gte-modernbert-base,ablate_raw_cost,75.621442,6 decimals
+BAAI/bge-base-en-v1.5,ablate_raw_cost,75.772263,6 decimals
+BAAI/bge-small-en-v1.5,ablate_raw_cost,75.436155,6 decimals
+mixedbread-ai/mxbai-embed-large-v1,ablate_raw_cost,75.749427,6 decimals
+Qwen/Qwen3-Embedding-0.6B,ablate_raw_cost,74.153597,6 decimals
+Alibaba-NLP/gte-modernbert-base,rep1,76.805052,6 decimals
+BAAI/bge-base-en-v1.5,rep1,77.709564,6 decimals
+BAAI/bge-small-en-v1.5,rep1,77.392286,6 decimals
+mixedbread-ai/mxbai-embed-large-v1,rep1,77.266990,6 decimals
+Qwen/Qwen3-Embedding-0.6B,rep1,75.600641,6 decimals
+
